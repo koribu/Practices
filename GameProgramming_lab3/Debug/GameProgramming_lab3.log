@@ -1,0 +1,3 @@
+﻿  lab3.cpp
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameProgramming\GameProgramming_lab3\lab3.cpp(30,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GameProgramming_lab3.vcxproj -> C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameProgramming\Debug\GameProgramming_lab3.exe

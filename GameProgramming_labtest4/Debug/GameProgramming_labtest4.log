@@ -1,0 +1,3 @@
+﻿  labtest4.cpp
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameProgramming\GameProgramming_labtest4\labtest4.cpp(234,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  GameProgramming_labtest4.vcxproj -> C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameProgramming\Debug\GameProgramming_labtest4.exe
